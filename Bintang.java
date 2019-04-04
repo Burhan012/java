@@ -14,7 +14,7 @@ public class Bintang {
                 }
 
             }
-            System.out.println("");
+            System.out.println("asd");
         }
 
     }
